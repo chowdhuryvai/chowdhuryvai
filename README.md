@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Darkboss1bd</h1>
 <h3 align="center">A Cyber Security Expert & Python Coder from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/capo-the-beast-capo-the-beast-gif-24540219">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkboss1bd&label=Profile%20views&color=0e75b6&style=flat" alt="darkboss1bd" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://serialkey.top/](https://serialkey.top/)
